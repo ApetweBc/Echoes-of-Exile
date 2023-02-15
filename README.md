@@ -22,8 +22,8 @@ After a long and dangerous journey, Kofi finally finds a new home in Italy. The 
 
 # Game Outline
 Unreal Engine.
-  Create the necessary game objects and scenes, including the player character, NPCs, obstacles, and environments.
-  Implement the game mechanics, such as movement, collision detection, and interaction with objects and NPCs.
+  ..Create the necessary game objects and scenes, including the player character, NPCs, obstacles, and environments.
+  ..Implement the game mechanics, such as movement, collision detection, and interaction with objects and NPCs.
   Create a game loop that constantly updates the game state and checks for input from the player.
   Design and implement the game's AI, including the behavior of enemy NPCs and other interactive game elements.
   Implement game audio and visual effects, including background music, sound effects, and graphics.
