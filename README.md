@@ -21,10 +21,10 @@ Conclusion:
 After a long and dangerous journey, Kofi finally finds a new home in Italy. The game ends with Kofi reflecting on his journey and the challenges he faced along the way. The player is given the option to replay the game and make different choices, leading to different outcomes.
 
 # Game Outline
-Unreal Engine.
- *Create the necessary game objects and scenes, including the player character, NPCs, obstacles, and environments.
-  Implement the game mechanics, such as movement, collision detection, and interaction with objects and NPCs.
-  Create a game loop that constantly updates the game state and checks for input from the player.
+1.Unreal Engine.
+2.Create the necessary game objects and scenes, including the player character, NPCs, obstacles, and environments.
+  3.Implement the game mechanics, such as movement, collision detection, and interaction with objects and NPCs.
+  4.Create a game loop that constantly updates the game state and checks for input from the player.
   Design and implement the game's AI, including the behavior of enemy NPCs and other interactive game elements.
   Implement game audio and visual effects, including background music, sound effects, and graphics.
   Test and debug the game to ensure that it runs smoothly and is enjoyable to play.
