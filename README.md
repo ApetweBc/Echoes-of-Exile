@@ -29,3 +29,18 @@ After a long and dangerous journey, Kofi finally finds a new home in Italy. The 
 6. Implement game audio and visual effects, including background music, sound effects, and graphics.
 7. Test and debug the game to ensure that it runs smoothly and is enjoyable to play.
 8. Add additional features and levels to the game as necessary.
+
+# Contributing Guidelines
+Fork the repository: To contribute to the game, first fork the project repository on GitHub to create your own copy of the code. You can then make changes to the code and test them out before submitting them back to the main project.
+
+Create a new branch: Before making any changes to the code, create a new branch in your forked repository. This will help you keep your changes separate from the main codebase, and make it easier to submit your changes for review.
+
+Make changes: Once you've created a new branch, you can start making changes to the code. Be sure to follow the project's coding conventions and style guidelines, and write clear, concise commit messages to explain what you've changed.
+
+Test your changes: Before submitting your changes, make sure to test them thoroughly to ensure that they work as expected and do not introduce any new bugs or issues.
+
+Submit a pull request: When you're ready to submit your changes back to the main project, create a pull request to request that the project maintainers review and merge your changes. Be sure to include a clear description of what you've changed and why, and reference any relevant issues or discussion threads.
+
+Collaborate: Once your pull request is submitted, be prepared to collaborate with the project maintainers to make any necessary changes and ensure that your code meets the project's standards. Respond promptly to any feedback or questions, and work together to find the best solution.
+
+Respect the license: Finally, be sure to respect the terms of the Apache 2.0 license, which includes granting a license to your contributions and ensuring that your code does not infringe on the rights of others.
